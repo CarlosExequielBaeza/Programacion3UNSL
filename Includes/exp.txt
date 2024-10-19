@@ -1,0 +1,1 @@
+Los archivos en el directorio includes/ son utilizados para almacenar partes comunes de tu aplicación que se pueden reutilizar en varias páginas.
